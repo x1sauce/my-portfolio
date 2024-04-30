@@ -12,8 +12,7 @@ const AboutMe = () => {
                     <p className="about-section-content-title">About</p>
                     <h1 className="about-section-content-heading">About Me</h1>
                     <p className="about-section-content-description">
-                        Do nostrud aliqua exercitation commodo anim nulla voluptate. Sit nostrud commodo ut non Lorem tempor nulla magna nulla. Consectetur laborum eiusmod ea enim duis enim nulla reprehenderit eu cillum ut nisi. Do nostrud mollit magna laborum sint exercitation. Ipsum aliquip qui excepteur consectetur non magna mollit et labore ut occaecat elit.
-                        Do nostrud aliqua exercitation commodo anim nulla voluptate. Sit nostrud commodo ut non Lorem tempor nulla magna nulla. Consectetur laborum eiusmod ea enim duis enim nulla reprehenderit eu cillum ut nisi. Do nostrud mollit magna laborum sint exercitation. Ipsum aliquip qui excepteur consectetur non magna mollit et labore ut occaecat elit.
+                        Dedicated and versatile, I'm Shawn Huang—a Navy Veteran with a Secret Security Clearance and over nine years of experience maintaining, troubleshooting, and repairing technical equipment. Currently aspiring to transition into the role of a Junior Software Engineer, I bring a wealth of expertise garnered from leading teams in dynamic, fast-paced environments.
                     </p>
                 </div>
             </div>

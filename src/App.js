@@ -15,22 +15,6 @@ import Footer from "./components/Footer";
 function App() {
   return (
     <div className="App">
-      {/* <Particles
-        id="tsparticles"
-
-        options={{
-          "particles": {
-            "number": {
-              "value": 10,
-              "density": {
-                "enable": false,
-                "value_area": 800
-              }
-            }
-          }
-        }}
-      /> */}
-
       <Navbar />
       <Header />
       <Skills />

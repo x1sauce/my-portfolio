@@ -86,6 +86,10 @@ body {
 }
 
 /* ********************* Links ************************* */
+/* .container {
+  background-color: var(--bg-shade) !important;
+} */
+
 nav a.nav-link {
   font-weight: 300;
   letter-spacing: 0.04rem;
@@ -371,6 +375,10 @@ nav ul li {
   gap: 7rem;
 }
 
+.timeline-element-card p {
+  font-size: smaller;
+  color: var(--primary-heading);
+}
 
 /* *************** contact *********** */
 .contact-section {

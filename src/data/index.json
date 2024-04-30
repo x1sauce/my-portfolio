@@ -4,128 +4,92 @@
       "id": "1",
       "src": "./images/product-chain-1.png",
       "title": "Front-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "Master front-end development with Coursera's Meta Front-End Developer course. Learn HTML, CSS, JavaScript, frameworks, and cutting-edge technologies. Build real-world projects, optimize performance, and advance your career"
     },
     {
       "id": "2",
       "src": "./images/tag-1.png",
       "title": "Back-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "Essential back-end development concepts, frameworks, database management, API development, security, scalability, deployment, and includes hands-on projects for practical experience in building web applications"
     },
     {
       "id": "3",
       "src": "./images/feather-pen-2.png",
       "title": "UI & UX Design",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "Proficient in UI/UX design, adept at creating intuitive and visually appealing interfaces for web and mobile applications. Skilled in user research, wireframing, prototyping, and conducting usability testing to ensure optimal user experiences. Strong understanding of design principles, accessibility standards, and industry trends"
     },
     {
       "id": "4",
       "src": "./images/feather-pen-1.png",
       "title": "Webflow Development",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "Proficient in Webflow Development, skilled in creating responsive and visually stunning websites using the Webflow platform. Experience in customizing templates, integrating third-party services, and optimizing sites for performance and SEO"
     }
   ],
   "portfolio": [
     {
       "id": "1",
-      "src": "https://images.freeimages.com/images/large-previews/56d/peacock-1169961.jpg?fmt=webp&w=500",
-      "title": "Ahuse",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "src": "../images/myCarouselImage.png",
+      "title": "Little Lemon Project",
+      "description": "A small-scale web project, incorporating HTML, CSS, and JavaScript to build interactive and visually appealing user interfaces. Through this project, I gained practical experience in designing and implementing front-end solutions, enhancing their skills in web development"
     },
     {
       "id": "2",
-      "src": "https://images.freeimages.com/images/large-previews/ab3/puppy-2-1404644.jpg?fmt=webp&w=500",
+      "src": "../images/placeholder.png",
       "title": "App Dashboard",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
       "link": "View In Github"
     },
     {
       "id": "3",
-      "src": "https://images.freeimages.com/images/large-previews/a8d/artemis-and-apollo-1407733.jpg?fmt=webp&w=500",
+      "src": "../images/placeholder.png",
       "title": "Easy Rentn",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
       "link": "View In Github"
-    }
-  ],
-  "testimonial": [
-    {
-      "id": "1",
-      "count": "5",
-      "src": "./img/avatar-image.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Dianne Russel",
-      "author_designation": "Starbucks"
-    },
-    {
-      "id": "2",
-      "count": "5",
-      "src": "./img/avatar-image-1.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Kristin Watson",
-      "author_designation": "Louis Vuitton"
-    },
-    {
-      "id": "3",
-      "count": "5",
-      "src": "./img/avatar-image-2.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Kathryn Murphy",
-      "author_designation": "McDonald's"
     }
   ],
   "timelineElements": [
     {
       "id": "1",
-      "title": "Frontend Developer",
-      "location": "Dragontail, Ascana",
-      "description": "Converting data to a graphical interface, through the use of HTML, CSS, and JavaScript, so that users can view and interact with that data.",
+      "title": "Aircraft Catapult Maintenance Technician - US Navy",
+      "location": "Norfolk, Virginia, United States",
+      "description": "Contributed to a team of 275 maintenance technicians and performed inspections, maintenance, and upkeep on 2 steam-powered aircraft catapults and associated equipment.",
       "buttonText": "View Frontend Projects",
-      "date": "August 2016 - present",
+      "date": "October 2015 - 2020",
       "icon": "work"
     },
     {
       "id": "2",
-      "title": "Frontend Developer",
-      "location": "Dragontail, Ascana",
-      "description": "Converting data to a graphical interface, through the use of HTML, CSS, and JavaScript, so that users can view and interact with that data.",
+      "title": "Maintenance Shift Supervisor",
+      "location": "Ventura County, California",
+      "description": "Managed team of 16 technicians, maintaining 4 aircraft landing systems. Oversaw tool inventory, training records, and correspondence. Demonstrated expertise in aviation operations, maintenance management, and leadership.",
       "buttonText": "View Frontend Projects",
-      "date": "August 2016 - present",
+      "date": "October 2020 - March 2022",
       "icon": "work"
     },
     {
       "id": "3",
-      "title": "Frontend Developer",
-      "location": "Dragontail, Ascana",
-      "description": "Converting data to a graphical interface, through the use of HTML, CSS, and JavaScript, so that users can view and interact with that data.",
+      "title": "Assistant Division Manager",
+      "location": "Ventura County, California",
+      "description": "Led maintenance team overseeing aircraft landing units, managed $65M equipment, ensured 100% readiness, provided security for $720M assets, and supported morale and fundraising initiatives. Skilled in personnel and duty management.",
       "buttonText": "View Frontend Projects",
-      "date": "August 2016 - present",
+      "date": "March 2022 - present",
       "icon": "work"
     },
     {
       "id": "4",
-      "title": "Frontend Developer",
-      "location": "Dragontail, Ascana",
-      "description": "Converting data to a graphical interface, through the use of HTML, CSS, and JavaScript, so that users can view and interact with that data.",
+      "title": "Software Development Intern",
+      "location": "Rocklin, CA",
+      "description": "As an intern at Allegiant Vets, I engage in a comprehensive six-month program focused on full-stack cloud development and core computer science, utilizing SQL, Python, and automation for enhanced insights and efficiency.",
       "buttonText": "View Frontend Projects",
-      "date": "August 2016 - present",
+      "date": "December 2023 - present",
       "icon": "work"
     },
     {
       "id": "5",
-      "title": "Frontend Developer",
-      "location": "Dragontail, Ascana",
-      "description": "Converting data to a graphical interface, through the use of HTML, CSS, and JavaScript, so that users can view and interact with that data.",
-      "buttonText": "View Frontend Projects",
-      "date": "August 2016 - present",
-      "icon": "work"
-    },
-    {
-      "id": "6",
-      "title": "Marble Hills Grammar School",
-      "location": "Dragontail, Ascana",
-      "description": "Highschool - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec scelerisque sagittis tellus, non ultrices lacus tempus vel.",
-      "date": "2003 - 2007",
+      "title": "American Military University",
+      "location": "Charles Town, WV",
+      "description": "Holder of a Bachelor's degree in Information Technology from American Military University, skilled in leveraging technology to drive innovation and efficiency. Experienced in diverse IT domains, including networking, security, and software development.",
+      "date": "2021 - 2024",
       "icon": "school"
     }
   ]
